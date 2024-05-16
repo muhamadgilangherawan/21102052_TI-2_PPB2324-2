@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "997064515514",
+    "project_id": "praktikum9-4136f",
+    "storage_bucket": "praktikum9-4136f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997064515514:android:421fb32fcf978678f00783",
+        "android_client_info": {
+          "package_name": "com.example.praktikum9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997064515514-mtl273afb3lpv8f2ktgd3b9nfba7csmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praktikum9",
+            "certificate_hash": "57f842c26987515de5d09ec5b65ac28e76e10ca6"
+          }
+        },
+        {
+          "client_id": "997064515514-ihq7l71ou82i6q01teq6vv58sdnb8608.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCric-ac19ZsFwzX11ibdwvE7trOH4qWjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997064515514-ihq7l71ou82i6q01teq6vv58sdnb8608.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997064515514-et2tjr66ac65rie03u01t5cgl4raegob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.praktikum9"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
